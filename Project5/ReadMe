@@ -1,3 +1,7 @@
+# Project Title
+TREASURY INQUIRY APP
+
+## Overview
 This project consists of two Android apps, a client app called FederalMoneyClient and a server app
 called FederalMoneyServer. FederalMoneyClient takes as input a date from the device user. This app
 packs the date in a request to the FederalMoneyServer app, which queries a database maintained by the US
