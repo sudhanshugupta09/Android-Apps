@@ -1,3 +1,7 @@
+# Project Title
+EASY CONTACT SAVE
+
+## Overview
 The app starts off with a main activity containing a welcome text and two buttons. Upon pressing the first button,
 the app displays a second activity containing a read-only text field and an edit text field. The read-only
 text field prompts the device user to enter a person’s name in the edit text field. A legal name consists at
